@@ -9,3 +9,5 @@ Meu nome é Manuella
 ### Você pode entrar em contato comigo 📫
 
 manuella.ickert@escola.pr.gov.br
+
+[Alura](https://www.alura.com.br)
